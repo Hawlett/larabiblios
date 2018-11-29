@@ -6,10 +6,10 @@
 
         <title>Laravel</title>
 
-        <!-- Fonts -->
+         Fonts 
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
 
-        <!-- Styles -->
+         Styles 
         <style>
             html, body {
                 background-color: #fff;
@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel ciccio
                 </div>
 
                 <div class="links">
@@ -91,6 +91,7 @@
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
+                    
                 </div>
             </div>
         </div>
